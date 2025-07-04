@@ -10,7 +10,7 @@ void main(){
 }*/
 
 //Exemplo 2 - métodos e visibilidade
-/*class Pessoa{
+class Pessoa{
   String _nome = "";
 
   //metodos modificadores
@@ -30,7 +30,7 @@ void main(){
   maria.nome = "Maria de Jesus";
 
   print("O nome da pessoa e: ${maria.nome}");
-}*/
+}
 
 //Exemplo 3 - construtores
 /*class Pessoa{

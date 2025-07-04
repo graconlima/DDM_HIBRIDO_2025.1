@@ -84,7 +84,35 @@ void main(){
   print("O nome da pessoa e: ${maria.nome}");
 }*/
 
-//Exemplo 5 - Herança
+//Exemplo 5 - sobrecarga de métodos
+/*class Pessoa{
+  double salario = 0.0;
+
+  //Nao eh possivel no sentido classico
+  /*int calculo(int a, int b){
+    return a+b;
+  }
+
+  double calculo(double a, double b){
+    return a+b;
+  }*/
+
+  void calculo(double s, [double bonus = 0.0]){
+    salario = s+bonus;
+  }
+
+}
+
+void main(){
+
+  Pessoa maria = Pessoa();
+
+  //se passar o parametro sera um bonus
+  maria.calculo(10, 20);
+  print("O salario e ${maria.salario}");
+}*/
+
+//Exemplo 6 - Herança
 /*class Aluno{
   String nome = "";
   double nota1 = 0.0;

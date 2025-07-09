@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
 }*/
 
 //Exemplo 3 - Widget sem estado
-/*void main(){
+void main(){
   runApp(MinhaWidget());
 }
 
@@ -19,7 +19,7 @@ class MinhaWidget extends StatelessWidget{
   Widget build(BuildContext bc){
     return Container(color: Color(0xFF0000FF));
   }
-}*/
+}
 
 //Exemplo 4 - Widgets para aparência unificada (MaterialDesign)
 /*void main(){

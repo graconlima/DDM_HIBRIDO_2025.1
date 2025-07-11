@@ -10,14 +10,6 @@ Desenvolvimento Híbrido - Flutter
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EdGfq5H1fGtIgHUIg_iqWIYBgFx3o9X0DLCaALh4zgkeuw?e=8sIL2C">Aula 1 </a> - Introdução</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EXbB4lSe8C5EpxuZVJvRf-4BqSB-n3BzGpg7aCBR6X2n4A?e=ig7zwG">Aula 2 </a> - Dart </p>
 
-<!--
-
-
-
-<br>
-
-
-
 <br>
 
 Aula 3 - Interface Gráfica
@@ -25,6 +17,9 @@ Aula 3 - Interface Gráfica
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ET8MQA1IUABOj6OGQHsIptUB52zpFgsIivHb2SR84EKO8Q?e=YFRgo8">Aula 3.2 </a> - Layout </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb9DbbwIy9JEhAFGYRW422QB_xf0aA2-fpSPiVf_KaqO1A?e=dsiR9W">Aula 3.3 </a> - Eventos </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EVolAswXAKBPlbvgfUI6Pj8BJZIDzukj0IfAF_B_dx0a3A?e=GW5hIl"> Aula 3.4 </a> - Navegação </p>
+<p><a class="external-link" href="https://drive.google.com/file/d/1THByH-BoBg8hkEJF4SjNjrZpnY0pAxSK/view?usp=sharing">Aula 3.1 </a> - Desenvolvimento Nativo - Android - Tarefa 5 (Interface Gráfica) </p>
+<br>
+<!--
 
 <br>
 
@@ -43,7 +38,7 @@ Aula 5 - Conectividade e Persistência
 
 
 
-<p><a class="external-link" href="https://drive.google.com/file/d/1THByH-BoBg8hkEJF4SjNjrZpnY0pAxSK/view?usp=sharing">Aula 3.1 </a> - Desenvolvimento Nativo - Android - Tarefa 5 (Interface Gráfica) </p>
+
 
 
 

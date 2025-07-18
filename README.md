@@ -16,6 +16,13 @@ Aula 3 - Interface Gráfica
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EaMjw86Q0txFi1mfEI2gUT8BA-YIxc5lKkaJTt1ARexWjg?e=Za0aGT">Aula 3.1 </a> - Widgets </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ET8MQA1IUABOj6OGQHsIptUB52zpFgsIivHb2SR84EKO8Q?e=YFRgo8">Aula 3.2 </a> - Layout </p>
 
+<br>
+
+Aula 4 - Estado
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb3nEyc4XIVOolOBo-1lkRQBDntKbtQaaF23lqFJBi1Vzg?e=h0AAXz">Aula 4.1 </a> - Estado </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EUifCB9TskFDqDclNt-x8fMB2AKrpuHp9-rPgwXoxSaybg?e=q8JfsW">Aula 4.2 </a> - Programação Assíncrona </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ESlvi1O3SlJFjPRxa5It_B4Bqql8ZXGzkw8tC6YLYPkcDA?e=iPJr8r">Aula 4.3 </a> - BLoC </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ES-msvang7hDixNPeuKBrgsBNmARSrcaM5AXmif_gOcIog?e=wkjnEt">Aula 4.4 </a> - Tarefa 3 (Implementação UI) </p>
 
 <!--
 
@@ -28,13 +35,7 @@ Aula 3 - Interface Gráfica
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb9DbbwIy9JEhAFGYRW422QB_xf0aA2-fpSPiVf_KaqO1A?e=dsiR9W">Aula 3.3 </a> - Eventos </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EVolAswXAKBPlbvgfUI6Pj8BJZIDzukj0IfAF_B_dx0a3A?e=GW5hIl"> Aula 3.4 </a> - Navegação </p>
 
-<br>
 
-Aula 4 - Estado
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb3nEyc4XIVOolOBo-1lkRQBDntKbtQaaF23lqFJBi1Vzg?e=h0AAXz">Aula 4.1 </a> - Estado </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EUifCB9TskFDqDclNt-x8fMB2AKrpuHp9-rPgwXoxSaybg?e=q8JfsW">Aula 4.2 </a> - Programação Assíncrona </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ESlvi1O3SlJFjPRxa5It_B4Bqql8ZXGzkw8tC6YLYPkcDA?e=iPJr8r">Aula 4.3 </a> - BLoC </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ES-msvang7hDixNPeuKBrgsBNmARSrcaM5AXmif_gOcIog?e=wkjnEt">Aula 4.4 </a> - Tarefa 3 (Implementação UI) </p>
 
 <br>
 Aula 5 - Conectividade e Persistência

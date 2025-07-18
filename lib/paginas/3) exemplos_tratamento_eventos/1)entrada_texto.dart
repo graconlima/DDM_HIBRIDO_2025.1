@@ -19,7 +19,7 @@ import 'package:flutter/services.dart';
 }*/
 
 //Exemplo 1: criando regras
-void main(){
+/*void main(){
   double a = 1.70, p = 70.0;
   runApp(MaterialApp(home: Scaffold(body: Column(
       children: <Widget>[
@@ -36,4 +36,4 @@ void main(){
       ]
   )))
   );
-}
+}*/

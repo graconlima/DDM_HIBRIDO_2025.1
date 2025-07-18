@@ -70,7 +70,7 @@ class MinhaApp extends StatelessWidget{
 }*/
 
 //Exemplo 6: deslizar com dois alertas, clique secundário e terciário, e detalhes
-void main(){
+/*void main(){
   runApp(MaterialApp(home: MinhaApp()));
 }
 
@@ -125,4 +125,36 @@ class MinhaApp extends StatelessWidget{
     var alerta = AlertDialog(title: Text("Informacao"), content: Text(informacao));
     showDialog(context: bc, builder: (bc){return alerta;});
   }
+}*/
+
+//Exemplo 7: zoom
+/*void main(){
+  runApp(MaterialApp(home: MinhaApp()));
 }
+
+class MinhaApp extends StatelessWidget{
+  Widget build(BuildContext bc){
+    return Scaffold(
+        appBar: AppBar(title: Text("Ola")),
+        body: Center(child: GestureDetector(
+          onScaleUpdate: (details) {
+            print('Zoom: ${details.scale}');
+          },
+          child: Container(
+            width: 300,
+            height: 300,
+            color: Colors.black12,
+            child: Center(
+              child: Text('Use dois dedos para aplicar zoom'),
+            ),
+          ),
+        )
+      )
+    );
+  }
+
+  void exibirInformacao(BuildContext bc, String informacao){
+    var alerta = AlertDialog(title: Text("Informacao"), content: Text(informacao));
+    showDialog(context: bc, builder: (bc){return alerta;});
+  }
+}*/

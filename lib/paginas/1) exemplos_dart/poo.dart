@@ -85,7 +85,11 @@ void main(){
 }*/
 
 //Exemplo 5 - sobrecarga de métodos
+<<<<<<< HEAD
 class Pessoa{
+=======
+/*class Pessoa{
+>>>>>>> 655b50bb5565c487286178239e9c36b147c1f248
   double salario = 0.0;
 
   //Nao eh possivel no sentido classico
@@ -110,10 +114,16 @@ void main(){
   //se passar o parametro sera um bonus
   maria.calculo(10, 20);
   print("O salario e ${maria.salario}");
+<<<<<<< HEAD
 }
 
 
 //Exemplo 5 - Herança
+=======
+}*/
+
+//Exemplo 6 - Herança
+>>>>>>> 655b50bb5565c487286178239e9c36b147c1f248
 /*class Aluno{
   String nome = "";
   double nota1 = 0.0;
@@ -151,6 +161,7 @@ void main(){
   print("Media do aluno(a) ${a1.nome}: ${a1.media()}");
   print("Media do aluno(a) ${a2.nome}: ${a2.media()}");
 }*/
+<<<<<<< HEAD
 
 /*void main(){
 
@@ -165,3 +176,5 @@ void main(){
 
   print(lista);
 }*/
+=======
+>>>>>>> 655b50bb5565c487286178239e9c36b147c1f248

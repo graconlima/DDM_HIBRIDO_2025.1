@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 //Exemplo 1 - container
 /*void main(){
-  runApp(Container(color: Color(0xFFFF00FF)));
+  runApp(Container(color: Color(0xFF9A7676)));
 }*/
 
 //Exemplo 2 - saida de dados (Text)
@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
 }*/
 
 //Exemplo 3 - Widget sem estado
-void main(){
+/*void main(){
   runApp(MinhaWidget());
 }
 
@@ -19,7 +19,7 @@ class MinhaWidget extends StatelessWidget{
   Widget build(BuildContext bc){
     return Container(color: Color(0xFF0000FF));
   }
-}
+}*/
 
 //Exemplo 4 - Widgets para aparência unificada (MaterialDesign)
 /*void main(){
@@ -146,7 +146,7 @@ class MinhaWidget extends StatelessWidget{
 }*/
 
 //Exemplo 11 - botoes
-/*void main(){
+void main(){
   runApp(MinhaWidget());
 }
 
@@ -168,7 +168,7 @@ class MinhaWidget extends StatelessWidget{
         )
     );
   }
-}*/
+}
 
 
 

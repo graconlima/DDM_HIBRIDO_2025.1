@@ -25,7 +25,7 @@ Aula 4 - Estado
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb3nEyc4XIVOolOBo-1lkRQBDntKbtQaaF23lqFJBi1Vzg?e=h0AAXz">Aula 4.1 </a> - Estado </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EUifCB9TskFDqDclNt-x8fMB2AKrpuHp9-rPgwXoxSaybg?e=q8JfsW">Aula 4.2 </a> - Programação Assíncrona </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ESlvi1O3SlJFjPRxa5It_B4Bqql8ZXGzkw8tC6YLYPkcDA?e=iPJr8r">Aula 4.3 </a> - BLoC </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ES-msvang7hDixNPeuKBrgsBNmARSrcaM5AXmif_gOcIog?e=wkjnEt">Aula 4.4 </a> - Tarefa 3 (Implementação UI) </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ES-msvang7hDixNPeuKBrgsBNmARSrcaM5AXmif_gOcIog?e=wkjnEt">Aula 4.4 </a> - Tarefa 2 (Implementação UI) </p>
 
 <!--
 

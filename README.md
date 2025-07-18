@@ -20,6 +20,7 @@ Aula 3 - Interface Gráfica
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/Eb9DbbwIy9JEhAFGYRW422QB_xf0aA2-fpSPiVf_KaqO1A?e=dsiR9W">Aula 3.3 </a> - Eventos </p>
 <p><a class="external-link" href="https://drive.google.com/file/d/1THByH-BoBg8hkEJF4SjNjrZpnY0pAxSK/view?usp=sharing">Aula 3.4 </a> - Desenvolvimento Hibrido - Flutter - Tarefa 1 (Interface Gráfica) </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EVolAswXAKBPlbvgfUI6Pj8BJZIDzukj0IfAF_B_dx0a3A?e=GW5hIl"> Aula 3.5 </a> - Navegação </p>
+
 <br>
 
 Aula 4 - Estado
@@ -27,15 +28,16 @@ Aula 4 - Estado
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EUifCB9TskFDqDclNt-x8fMB2AKrpuHp9-rPgwXoxSaybg?e=q8JfsW">Aula 4.2 </a> - Programação Assíncrona </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ESlvi1O3SlJFjPRxa5It_B4Bqql8ZXGzkw8tC6YLYPkcDA?e=iPJr8r">Aula 4.3 </a> - BLoC </p>
 
+<br>
+Aula 5 - Conectividade e Persistência
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EZ-DpYA2BhFFha5Jr0u03ocBhuSN6M7pIYtY2f2bt3osjQ?e=c6ugfp">Aula 5.1 </a> - Comunicação (HTTP) </p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EdnfJi2ipitGmxEWd5y9VM8Bcrey2BTC43XyUn2uMJutWQ?e=FSAjwO">Aula 5.2 </a> - Banco de Dados </p>
 <!--
 
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ES-msvang7hDixNPeuKBrgsBNmARSrcaM5AXmif_gOcIog?e=wkjnEt">Aula 4.4 </a> - Tarefa 3 (Implementação UI) </p>
 
-<br>
-Aula 5 - Conectividade e Persistência
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EZ-DpYA2BhFFha5Jr0u03ocBhuSN6M7pIYtY2f2bt3osjQ?e=c6ugfp">Aula 5.1 </a> - Comunicação (HTTP) </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EdnfJi2ipitGmxEWd5y9VM8Bcrey2BTC43XyUn2uMJutWQ?e=FSAjwO">Aula 5.2 </a> - Banco de Dados </p>
+
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:t:/s/DDM2024.1/Efx51Ts5729JuvGjLDqrThAB39ZXaujljY7Jqvd4W1CYzw?e=LCVJbS">Aula 5.3 </a> - Introdução, UI, Estado, HTTP e BD  (links das videoaulas) </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ERZj51knrB1OoFY-gTnFKfUB8E3Q7sVOROlAes6l3pctZw?e=eJueqa">Aula 5.4 </a> - Tarefa 4 (API e BD - Nativo ou Híbrido) </p>
 

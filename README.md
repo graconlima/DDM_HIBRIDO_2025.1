@@ -29,6 +29,7 @@ Aula 4 - Estado
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/ESlvi1O3SlJFjPRxa5It_B4Bqql8ZXGzkw8tC6YLYPkcDA?e=iPJr8r">Aula 4.3 </a> - BLoC </p>
 
 <br>
+
 Aula 5 - Conectividade e Persistência
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EZ-DpYA2BhFFha5Jr0u03ocBhuSN6M7pIYtY2f2bt3osjQ?e=c6ugfp">Aula 5.1 </a> - Comunicação (HTTP) </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DDM2024.1/EdnfJi2ipitGmxEWd5y9VM8Bcrey2BTC43XyUn2uMJutWQ?e=FSAjwO">Aula 5.2 </a> - Banco de Dados </p>

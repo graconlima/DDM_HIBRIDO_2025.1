@@ -157,4 +157,8 @@ class MinhaApp extends StatelessWidget{
     var alerta = AlertDialog(title: Text("Informacao"), content: Text(informacao));
     showDialog(context: bc, builder: (bc){return alerta;});
   }
+<<<<<<< HEAD
 }*/
+=======
+}*/
+>>>>>>> eb4e08d70b8fa651d281b6b82e6f5b207e72a430
